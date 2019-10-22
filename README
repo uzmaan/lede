@@ -34,7 +34,7 @@ sudo apt-get -y install build-essential asciidoc binutils bzip2 gawk gettext git
 Please use "make menuconfig" to choose your preferred
 configuration for the toolchain and firmware.
 
-You need to have installed gcc, binutils, bzip2, flex, python, perl, make,
+You need to have installed gcc, binutils, bzip2, flex, python,PYTHON3, perl, make,
 find, grep, diff, unzip, gawk, getopt, subversion, libz-dev and libc headers.
 
 Run "./scripts/feeds update -a" to get all the latest package definitions
